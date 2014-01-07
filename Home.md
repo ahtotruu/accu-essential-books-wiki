@@ -6,3 +6,7 @@ The following list of books is intended to act as a guide for which books are co
 * [The Practice of Programming](http://accu.org/index.php?module=bookreviews&func=search&rid=419) by Brian W. Kernighan & Rob Pike
 
 ### The C++ Language
+
+### The C# Language
+
+* C# in Depth by Jon Skeet
