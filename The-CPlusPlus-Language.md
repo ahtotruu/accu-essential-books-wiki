@@ -1,1 +1,1 @@
-Stroustrup
+These books cover the C++ programming language and related tools.
