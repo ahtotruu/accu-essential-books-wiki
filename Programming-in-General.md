@@ -11,3 +11,6 @@ Reviewed by: [Roger Orr (14-2)](http://accu.org/index.php?module=bookreviews&fun
 
 #### Working Effectively with Legacy Code (Michael Feathers)
 Reviewed by: 
+
+#### Test Driven Development: By Example (Kent Beck)
+Reviewed by: [John Mullins (16-1)](http://accu.org/index.php?module=bookreviews&func=search&rid=277) and [Paul Grenyer (16-3)](http://accu.org/index.php?module=bookreviews&func=search&rid=402)
