@@ -7,3 +7,4 @@ The wiki has been divided into the following sections:-
 * [Development Process](wiki/Development-Process)
 * [The C++ Language](wiki/The-CPlusPlus-Language)
 * [The C# Language](wiki/The-CSharp-Language)
+* [The Java Language](wiki/The-Java-Language)
