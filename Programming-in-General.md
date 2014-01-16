@@ -9,6 +9,8 @@ Reviewed by: [Francis Glassborow (11-4)] (http://accu.org/index.php?module=bookr
 #### Refactoring: Improving the Design of Existing Code (Martin Fowler)
 Reviewed by: [Roger Orr (14-2)](http://accu.org/index.php?module=bookreviews&func=search&rid=1773) and [James Roberts (15-4)](http://accu.org/index.php?module=bookreviews&func=search&rid=1614)
 
+Refactoring is the art of improving the design of a codebase whilst maintaining its existing behaviour sao that future changes are easier. This books details many different types of refactorings with help on why you might choose to employ them.
+
 #### Working Effectively with Legacy Code (Michael Feathers)
 Reviewed by: 
 
