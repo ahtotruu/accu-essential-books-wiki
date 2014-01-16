@@ -15,5 +15,5 @@ Reviewed by:
 #### Test Driven Development: By Example (Kent Beck)
 Reviewed by: [John Mullins (16-1)](http://accu.org/index.php?module=bookreviews&func=search&rid=277) and [Paul Grenyer (16-3)](http://accu.org/index.php?module=bookreviews&func=search&rid=402)
 
-#### 97 Things Every Programmer Should Know
+#### 97 Things Every Programmer Should Know (Various)
 Reviewed by: 
