@@ -24,3 +24,4 @@ TDD (Test Driven Development) is one of the modern agile technical practices tha
 #### 97 Things Every Programmer Should Know (Various)
 Reviewed by: 
 
+This book is a collection of various topics from a variety of authors about what they consider to be essential knowledge for programmers.
