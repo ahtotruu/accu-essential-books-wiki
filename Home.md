@@ -1,10 +1,10 @@
 The following list of books is intended to act as a guide for which books are considered by members of ACCU to be essential reading for programmers. Where available there are links to [the ACCU book reviews](http://accu.org/index.php?module=bookreviews&func=search) that were published in [the C Vu journal](http://accu.org/index.php/cvujournal).
 
-[Programming in General](Programming in General)
+[Programming in General](Programming-in-General)
 
-[The C++ Language](The C++ Language)
+[The C++ Language](The-CPlusPlus-Language)
 
-[The C# Language](The C# Language)
+[The C# Language](The-CSharp-Language)
 
 ### Programming in General
 
