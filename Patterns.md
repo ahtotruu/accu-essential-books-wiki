@@ -5,3 +5,6 @@ Reviewed by: [Ed Sykes](http://accu.org/index.php?module=bookreviews&func=search
 
 #### Patterns of Enterprise Application Architecture (Martin Fowler)
 Reviewed by: [Garry Lancaster (16-1)](http://accu.org/index.php?module=bookreviews&func=search&rid=274)
+
+#### Pattern-Oriented Software Architecture Volume 4 (Frank Buschmann, Kevlin Henney & Douglas C. Schmidt)
+Reviewed by: 
