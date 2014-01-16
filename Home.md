@@ -3,5 +3,6 @@ This wiki acts as a guide for which books are considered by members of the ACCU 
 The wiki has been divided into the following sections:-
 
 * [Programming in General](wiki/Programming-in-General)
+* [Patterns](wiki/Patterns)
 * [The C++ Language](wiki/The-CPlusPlus-Language)
 * [The C# Language](wiki/The-CSharp-Language)
