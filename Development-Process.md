@@ -11,6 +11,8 @@ Reviewed by:
 Whilst there are many books on the aspects of writing and testing code there are precious few that cover how that gets deployed and supported once in production. The case studies provide a sobering view of what happens once your code hits the real world.
 
 #### eXtreme Programming Explained (Kent Beck)
+![](http://ecx.images-amazon.com/images/I/416Y8MS65TL._SL110_.jpg)
+
 Reviewed by: [Francis Glassborow (12-3)](http://accu.org/index.php?module=bookreviews&func=search&rid=1149)
 
 To the outsider the idea of eXtreme Programming probably seems radial, and it is. This book explains in detail the practices it advocates but also, more importantly, how they nit together to provide a vastly different way of developing software.
