@@ -1,6 +1,8 @@
 These books provide general guidance on programming in the large. Although they may have a language bias they still provide plenty of information that would by useful to anybody looking to improve their programming skills.
 
 #### The Pragmatic Programmer (Andrew Hunt & David Thomas)
+![](http://ecx.images-amazon.com/images/I/41BKx1AxQWL._SL110_.jpg)
+
 Reviewed by: [Francis Glassborow (12-3)](http://accu.org/index.php?module=bookreviews&func=search&rid=1148)
 
 If you're looking a densely-packed book chock full of sound advice about all manner of topics relevant to the development of a software product you can't go far wrong with this.
