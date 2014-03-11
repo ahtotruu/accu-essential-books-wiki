@@ -34,6 +34,8 @@ Reviewed by: [John Mullins (16-1)](http://accu.org/index.php?module=bookreviews&
 TDD (Test Driven Development) is one of the modern agile technical practices that is used to mould code by writing tests first. This book is the definitive guide to the subject.
 
 #### 97 Things Every Programmer Should Know (Various)
+![](http://ecx.images-amazon.com/images/I/51uSFVY7zjL._SL110_.jpg)
+
 Reviewed by: 
 
 This book is a collection of various topics from a variety of authors about what they consider to be essential knowledge for programmers.
