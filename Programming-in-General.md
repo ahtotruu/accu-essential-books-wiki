@@ -39,3 +39,12 @@ TDD (Test Driven Development) is one of the modern agile technical practices tha
 Reviewed by: 
 
 This book is a collection of various topics from a variety of authors about what they consider to be essential knowledge for programmers.
+
+#### Structure and Interpretation of Computer Programs (Abelson, Sussman and Sussman)
+![](http://ecx.images-amazon.com/images/I/41AJV8G0ZTL._SL110_.jpg)
+
+Reviewed by:
+
+A review of the important concepts of computer programming through the introduction of the Scheme programming language, which is a simplified variant of Lisp developed for this book and the MIT Computer Science course for which it was the textbook.
+
+The full text of the book is available online at: [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
