@@ -1,3 +1,5 @@
+These books cover the JavaScript language and related tools.
+
 #### JavaScript: The Good Parts (Douglas Crockford)
 ![](http://www.crockford.com/goodparts.gif)
 
