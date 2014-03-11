@@ -40,6 +40,8 @@ Reviewed by:
 
 This book is a collection of various topics from a variety of authors about what they consider to be essential knowledge for programmers.
 
+The full text of the book is available online at: [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
+
 #### Structure and Interpretation of Computer Programs (Abelson, Sussman and Sussman)
 ![](http://ecx.images-amazon.com/images/I/41AJV8G0ZTL._SL110_.jpg)
 
