@@ -1,13 +1,13 @@
 These books cover the C++ programming language and related tools.
 
-#### The C++ Programming Language (Bjarne Stroustrup)
+#### The C++ Programming Language 4th Edition (Bjarne Stroustrup)
 ![](http://ecx.images-amazon.com/images/I/51Lx22AkLFL._SL110_.jpg)
 
-Reviewed by: [Brian Bramer (10-2)](http://accu.org/index.php?module=bookreviews&func=search&rid=620)
+Reviewed by: [Paul Floyd (25-6)](http://accu.org/index.php?module=bookreviews&func=search&rid=1857)
 
 A comprehensive reference on the C++ language written by its creator. Available in paperback, hardback and Kindle.
 
-#### Effective C++ (Scott Meyers)
+#### Effective C++ - New book on its way (Scott Meyers)
 ![](http://ecx.images-amazon.com/images/I/518RKML-bxL._SL110_.jpg)
 
 Reviewed by: [Francis Glassborow (10-4)](http://accu.org/index.php?module=bookreviews&func=search&rid=700)
