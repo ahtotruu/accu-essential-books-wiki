@@ -30,7 +30,7 @@ A tutorial and reference for the C++ Standard Library.
 
 This is a much more modern C++ introduction than Bjarne Stroustrup's books. It is STL-first, pointer later introduction. The only drawback, being from 2000 it is not covering C++11 and beyond, but still highly relevant and eye opening for the uninitiated, because of its approach.
 
-#### C++ Templates: The Complete Guide (David Vandevoorde,‎ Nicolai M. Josuttis,‎ Douglas Gregor)
-![](https://images-na.ssl-images-amazon.com/images/I/51SY8H6pf9L._AC_UL115_.jpg)
+#### C++ Templates: The Complete Guide 2nd Edition (David Vandevoorde,‎ Nicolai M. Josuttis,‎ Douglas Gregor)
+![](https://images-na.ssl-images-amazon.com/images/I/51M%2BlNcWqzL._AC_UL115_.jpg)
 
 The title says it all. If you want to learn or refer to template-based programming in C++ this is the go-to book.
