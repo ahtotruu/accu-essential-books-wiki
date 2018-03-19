@@ -18,6 +18,8 @@ The wiki has been divided into a number of different sections. Whilst any attemp
 * [The JavaScript Language](wiki/The-JavaScript-Language)
 * [The Ruby Language](wiki/The-Ruby-Language)
 
+* [The Linux Operating System](wiki/The-Linux-Operating-System)
+
 #### What's Essential?
 
 If you search [the ACCU book reviews](http://accu.org/index.php?module=bookreviews&func=search) you'll find many books that are highly recommended. Take [The Old New Thing by Raymond Chen](http://accu.org/index.php?module=bookreviews&func=search&rid=1819), this is an excellent book full of anecdotes and other titbits of information about programming on the the Windows platform. But that doesn't make it essential reading, even for Window's focused programmers.
