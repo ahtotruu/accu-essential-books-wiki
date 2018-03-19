@@ -10,13 +10,15 @@ The wiki has been divided into a number of different sections. Whilst any attemp
 * [Patterns](wiki/Patterns)
 * [Development Process](wiki/Development-Process)
 
-##### Technology Specific 
+##### Technology Specific (Languages)
 
 * [The C++ Language](wiki/The-CPlusPlus-Language)
 * [The C# Language](wiki/The-CSharp-Language)
 * [The Java Language](wiki/The-Java-Language)
 * [The JavaScript Language](wiki/The-JavaScript-Language)
 * [The Ruby Language](wiki/The-Ruby-Language)
+
+##### Technology Specific (Operating Systems)
 
 * [The Linux Operating System](wiki/The-Linux-Operating-System)
 
