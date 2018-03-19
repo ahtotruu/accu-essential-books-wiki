@@ -16,6 +16,7 @@ The wiki has been divided into a number of different sections. Whilst any attemp
 * [The C# Language](wiki/The-CSharp-Language)
 * [The Java Language](wiki/The-Java-Language)
 * [The JavaScript Language](wiki/The-JavaScript-Language)
+* [The Ruby Language](wiki/The-Ruby-Language)
 
 #### What's Essential?
 
