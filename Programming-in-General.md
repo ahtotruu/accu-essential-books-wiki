@@ -50,3 +50,8 @@ Reviewed by:
 A review of the important concepts of computer programming through the introduction of the Scheme programming language, which is a simplified variant of Lisp developed for this book and the MIT Computer Science course for which it was the textbook.
 
 The full text of the book is available online at: [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+
+#### Code Complete: A Practical Handbook of Software Construction (Steve McConnell)
+![](https://images-na.ssl-images-amazon.com/images/I/51FUYfErOXL._AC_UL115_.jpg)
+
+Reviewed by: [Francis Glassborow (6-1)](https://accu.org/index.php?module=bookreviews&func=search&rid=466)
