@@ -1,14 +1,14 @@
 These books cover patterns in their various guises.
 
 #### Implementation Patterns (Kent Beck)
-Reviewed by: [Ed Sykes](http://accu.org/index.php?module=bookreviews&func=search&rid=1813) and [Seb Rose](http://accu.org/index.php?module=bookreviews&func=search&rid=1829)
+Reviewed by: [Ed Sykes (2009-JAN)](https://accu.org/bookreviews/2009/sykes_1813/) and [Seb Rose (2009-DEC)](https://accu.org/bookreviews/2009/rose_1829/)
 
 Whilst there are many books about design patterns, this gem from Kent Beck looks at the patterns we use everyday to structure our code, handle exceptions, name classes and methods, etc. If you ever wanted to get inside the head of Kent Beck, but stand little chance of pairing with him, then this is your best opportunity.
 
 #### Patterns of Enterprise Application Architecture (Martin Fowler)
 ![](http://ecx.images-amazon.com/images/I/51qUDlTiScL._SL110_.jpg)
 
-Reviewed by: [Garry Lancaster (16-1)](http://accu.org/index.php?module=bookreviews&func=search&rid=274)
+Reviewed by: [Garry Lancaster (2004-FEB)](https://accu.org/bookreviews/2004/lancaster_274/)
 
 Aside from the Gang of Four, the patterns in this book are probably the most well known. If you find yourself hearing about Data Mappers, Gateways and Service Layers, then this is a good source to find out more.
 
